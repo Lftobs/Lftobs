@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 
   <!-- GitHub section -->
-<!--
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> 
  
  <div>
-   <img align="center" src="" alt="Tobs's LangStat" />
-  <img align="center" src="" alt="Tobs's language" height="192px"  width="500px"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lftobs" alt="Tobs's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lftobs&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Tobs's language" height="192px"  width="500px"/>
 </div>
--->
