@@ -1,5 +1,6 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> Hi, I'm Tobs </h3>
 
+<img align="centre" src="https://github.com/Lftobs/Lftobs/blob/main/coding.gif" >
 <!--
 **Lftobs/Lftobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
