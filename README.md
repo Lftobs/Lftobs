@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> Hi, I'm Tobs </h3>
 
 <!--
 **Lftobs/Lftobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+  <!-- GitHub section -->
+<!--
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> 
+ 
+ <div>
+   <img align="center" src="" alt="Tobs's LangStat" />
+  <img align="center" src="" alt="Tobs's language" height="192px"  width="500px"/>
+</div>
 -->
