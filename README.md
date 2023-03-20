@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lftobs&count_private=true&include_all_commits=true" alt="Tobs's LangStat" /><br/><br/>
 
-  <img align="center" src="https://my-github-stats-three.vercel.app/api/top-langs?username=lftobs&langs_count=10&exclude_repo=my-stats,M_journal&hide=BrainFuck,Assembly&show_icons=true&locale=en&layout=compact&theme=light" alt="Tobs's language" height="192px"  width="500px"/>
+  <img align="center" src="https://my-github-stats-three.vercel.app/api/top-langs?username=lftobs&langs_count=10&exclude_repo=my-stats,M_journal,Portfolio_manger,page&hide=BrainFuck,Assembly&show_icons=true&locale=en&layout=compact&theme=light" alt="Tobs's language" height="192px"  width="500px"/>
 </div>
 
 <!--
