@@ -2,7 +2,7 @@
 
 <img align="centre" src="https://github.com/Lftobs/Lftobs/blob/main/coding.gif" ><br/>
 
-<p>I am Tobi, a full stack developer who loves experimenting with different programming languages and enjoys watching movies in my free time. I am dedicated to producing high-quality code and constantly improving my skills to become the best developer I can be.</p>
+<p align="center">I am Tobi, a full stack developer who loves experimenting with different programming languages and enjoys watching movies in my free time. I am dedicated to producing high-quality code and constantly improving my skills to become the best developer I can be.</p>
 
 
 <!--
@@ -23,9 +23,11 @@ Here are some ideas to get you started:
   <!-- GitHub section -->
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> 
  
- <div>
+ <div align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lftobs&count_private=true&include_all_commits=true" alt="Tobs's LangStat" /><br/><br/>
-
+  
+![stats](https://github-readme-stats.vercel.app/api?username=Lftobs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
+  
   <img align="center" src="https://my-github-stats-three.vercel.app/api/top-langs?username=lftobs&langs_count=10&exclude_repo=my-stats,M_journal,Portfolio_manger,page,tc2g,test_f,Fastapi&hide=BrainFuck,Assembly&show_icons=true&locale=en&layout=compact&theme=light" alt="Tobs's language" height="192px"  width="500px"/>
 </div>
 
