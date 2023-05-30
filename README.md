@@ -1,6 +1,6 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> Hi, I'm Tobs </h3>
 
-<img align="centre" src="https://github.com/Lftobs/Lftobs/blob/main/coding.gif" ><br/>
+<img align="center" src="https://github.com/Lftobs/Lftobs/blob/main/coding.gif" ><br/>
 
 <p align="center">I am Tobi, a full stack developer who loves experimenting with different programming languages and enjoys watching movies in my free time. I am dedicated to producing high-quality code and constantly improving my skills to become the best developer I can be.</p>
 
